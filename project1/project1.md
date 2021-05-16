@@ -12,14 +12,14 @@
 
 **Ubuntu EC2 Instance**
 
-![](/Users/andy/PycharmProjects/dareyio-pbl/project1/EC2.jpg)
+![](EC2.jpg)
 
 **Putty Session connected to EC2 instance**
-![](/Users/andy/PycharmProjects/dareyio-pbl/project1/puttySession.jpg)
+![](puttySession.jpg)
 
 **Browsing to PHP page in apache virtual host**
 
 Browsing to the  public ip address of the EC2 instances is 54.163.197.94
 
-![](/Users/andy/PycharmProjects/dareyio-pbl/project1/php.jpg)
+![](php.jpg)
 
