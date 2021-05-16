@@ -1,6 +1,6 @@
 # Project 1. LAMP Webstack implmentation.
 
-1. Created an EC2 t2 micro instance running ubunutu.
+1. Created an EC2 t2 micro instance running ubuntu.
 2. Enabled public / private keys so that the I could connect to the instance from my macbook.
 3. Enabled port 80 in the inbound firewall rules in the security settings of the EC2 instance.
 4. Installed and configured apache web server.
@@ -12,21 +12,14 @@
 
 **Ubuntu EC2 Instance**
 
-Note that the public ip address of the EC2 instances is 54.163.197.94
-
-<img src="/Users/andy/Downloads/ubuntuEC2.jpg" style="zoom:50%;" />
-
-
+![](/Users/andy/PycharmProjects/dareyio-pbl/project1/EC2.jpg)
 
 **Putty Session connected to EC2 instance**
-
-![Local Putty Session](/Users/andy/Downloads/puttySession.jpg)
-
-
+![](/Users/andy/PycharmProjects/dareyio-pbl/project1/puttySession.jpg)
 
 **Browsing to PHP page in apache virtual host**
 
 Browsing to the  public ip address of the EC2 instances is 54.163.197.94
 
-![](/Users/andy/Downloads/php.jpg)
+![](/Users/andy/PycharmProjects/dareyio-pbl/project1/php.jpg)
 
