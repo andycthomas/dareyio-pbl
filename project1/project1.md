@@ -15,6 +15,7 @@
 ![](EC2.jpg)
 
 **Putty Session connected to EC2 instance**
+
 ![](puttySession.jpg)
 
 **Browsing to PHP page in apache virtual host**
