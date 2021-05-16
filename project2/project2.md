@@ -1,4 +1,4 @@
-# Project 1. LAMP Webstack implmentation.
+# Project 2. LEMP Webstack implmentation.
 
 1. Created an EC2 t2 micro instance running ubuntu.
 2. Enabled public / private keys so that the I could connect to the instance from my macbook.
