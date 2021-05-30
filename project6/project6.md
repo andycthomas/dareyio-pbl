@@ -7,10 +7,11 @@
 3. On each ec2 instance used lsblk to verify that the new block devices were avaiable.
 
 4. On each ec2 instance used gisk to creeate a single partion on each of the 3 disks for that ec2 instance.
-       ![](createAPartition.jpg)
+  ![](createAPartition.jpg)
+
 
 5. Used lsblk to verify that the new partitions were available.
-       ![](lsblkCheck.jpg)
+  ![](lsblkCheck.jpg)
 
 6. On each ec2 instance used pvcreate to mark each of the 3 disks as physical volumes.
 
