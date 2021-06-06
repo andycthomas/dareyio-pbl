@@ -1,12 +1,11 @@
 # Project 7
 
-[Sign In - Read the Docs for Business](https://professional-pbl.darey.io/en/latest/project7.html)
 
-1. Spin up a new ec2 instance running rhel 8
+1. Spin up 5 new ec2 instance running rhel 8. Database server, 3 x webserver, and NFS file server. 
 
 ![Project%207%20196716dc19f3441387088f9224dab2f1/Untitled.png](Project%207%20196716dc19f3441387088f9224dab2f1/Untitled.png)
 
-1. Configure LVM on the server.
+1. Configure LVM on the nfs server.
     1. Format the disks as xfs
     2. Create 3 logical volumes
         1. lv-opt, lv-apps, and lv-logs
