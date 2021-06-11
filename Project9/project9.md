@@ -1,6 +1,5 @@
-- Automation of repeated routine tasks with Jenkins Continuous Integration tool – is the focus of this project. You will learn how to automatically deploy DevOps Tooling website to Web Servers straight from your GitHub repository upon every commit using Webhooks.
 - Create an AWS EC2 Ubuntu Server 
-    - Name it [[Jenkins]]
+    - Name it Jenkins
     - Install JDK
     - Make sure Jenkins is running
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandy-devops%2FS8hxGosSYp.png?alt=media&token=3aa057e1-ba37-450b-adb4-f04814a6d402)
