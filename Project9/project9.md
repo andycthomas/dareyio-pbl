@@ -16,15 +16,13 @@ Jenkins is now available at http://54.159.88.46:8080/
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandy-devops%2Fb5_1ExUJzi.png?alt=media&token=c122e516-883c-416a-ade9-d4e7dd85d196)
 
     - Configure Jenkins to copy files to the NFS server via SSH
-post build action failed to copy artefacts to the NFS server
-
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandy-devops%2F3PasgxGW3h.png?
-    - Configure Jenkins to copy files to the NFS server via SSH
-post build action failed to copy artefacts to the NFS server
+    - The post build action failed to copy artefacts to the NFS server
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandy-devops%2F3PasgxGW3h.png?alt=media&token=253bb95e-31ee-49db-8d2b-72497757c68f)
+
     - Correct the configuration for the ssh-publisher in the post build action.
     - Made a change in one of the files in the github repositorary.
+
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandy-devops%2Fksn9GiEzdo.png?alt=media&token=c6b5a6ec-9ac6-4f32-be67-cc3807cd7896)
     - Jenkins build is successful
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandy-devops%2F5JKWXvzVYK.png?alt=media&token=40761f2f-55e7-42ff-a4a6-d3648ea298e0)
