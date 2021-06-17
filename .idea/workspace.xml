@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66499a20-8796-4780-9cec-b2b920c6ff64" name="Default Changelist" comment="Aux project 1. On boarding users. Shell script and documentation" />
+    <list default="true" id="66499a20-8796-4780-9cec-b2b920c6ff64" name="Default Changelist" comment="Aux project 1. On boarding users. Shell script and documentation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,18 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Project11/project11A.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -56,6 +69,7 @@
         <option value="$PROJECT_DIR$/Project7/Project 7.md" />
         <option value="$PROJECT_DIR$/Project7/project7.md" />
         <option value="$PROJECT_DIR$/Project9/project9.md" />
+        <option value="$PROJECT_DIR$/Project11/project11.md" />
       </list>
     </option>
   </component>
@@ -78,6 +92,16 @@
               <item name="dareyio-pbl" type="b2602c69:ProjectViewProjectNode" />
               <item name="dareyio-pbl" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dareyio-pbl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dareyio-pbl" type="462c0819:PsiDirectoryNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dareyio-pbl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dareyio-pbl" type="462c0819:PsiDirectoryNode" />
+              <item name="Project11" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -88,22 +112,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Project7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Project11" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/project1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Project11" />
       <recent name="$PROJECT_DIR$/Project7" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/auxillary-projects" />
       <recent name="$PROJECT_DIR$/project3" />
-      <recent name="$PROJECT_DIR$/project2" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/project1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -138,7 +162,7 @@
       <workItem from="1622140968721" duration="2752000" />
       <workItem from="1622398335861" duration="2294000" />
       <workItem from="1623005823554" duration="1845000" />
-      <workItem from="1623186456470" duration="1817000" />
+      <workItem from="1623186456470" duration="3015000" />
     </task>
     <task id="LOCAL-00001" summary="Aux project 1. On boarding users. Shell script and documentation">
       <created>1622064855378</created>
@@ -151,10 +175,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21441000" />
+    <option name="totallyTimeSpent" value="22639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="23" width="1920" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19116081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -170,7 +195,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295325" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.50362694" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.50362694" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -366,6 +391,30 @@
           <first_editor relative-caret-position="45">
             <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project10/project10.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project11/project11.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project11/project11A.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
